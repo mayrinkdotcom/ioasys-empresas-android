@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Empresas</string>
-    <string name="btnLogin">Login</string>
+    <string name="btnLogin">ENTRAR</string>
+    <string name="titleLogin">BEM-VINDO AO \nEMPRESAS</string>
+    <string name="subtitleLogin">Lorem ipsum dolor sit amet, contetur \nadipiscing elit. Nunc accumsan.</string>
+    <string name="edtEmailLogin">E-mail</string>
+    <string name="edtSenhaLogin">Senha</string>
 </resources>
