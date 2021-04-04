@@ -3,6 +3,8 @@
     <color name="colorPrimaryDark">#B5B4A6</color>
     <color name="colorPrimary">#EBE9D7</color>
     <color name="colorAccent">#57B8BC</color>
+    <color name="colorTextView">@color/charcoal_grey</color>
+    <color name="colorTextViewDark">@color/bege</color>
 
     <!-- Companies -->
     <color name="mediumPink">#EE4C77</color>
