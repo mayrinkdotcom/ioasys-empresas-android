@@ -12,20 +12,20 @@
         tools:layout="@layout/fragment_login" >
         <action
             android:id="@+id/action_loginFragment_to_homeFragment"
-            app:destination="@id/mainActivity" />
+            app:destination="@id/homeFragment" />
     </fragment>
 
     <fragment
-        android:id="@+id/mainActivity"
-        android:name="br.com.ioasys.camp.empresas.MainActivity"
+        android:id="@+id/homeFragment"
+        android:name="br.com.ioasys.camp.empresas.HomeFragment"
         android:label="fragment_home"
-        tools:layout="@layout/activity_main">
+        tools:layout="@layout/fragment_home">
         <argument
             android:name="accessToken"
             app:argType="string"
             app:nullable="false" />
         <argument
-            android:name="client"
+            android:name="clientId"
             app:argType="string"
             app:nullable="false" />
         <argument
