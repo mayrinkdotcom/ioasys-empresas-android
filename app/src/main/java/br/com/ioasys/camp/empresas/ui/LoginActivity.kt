@@ -1,8 +1,9 @@
-package br.com.ioasys.camp.empresas
+package br.com.ioasys.camp.empresas.ui
 
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
+import br.com.ioasys.camp.empresas.R
 
 class LoginActivity : AppCompatActivity () {
     override fun onCreate(savedInstanceState: Bundle?) {

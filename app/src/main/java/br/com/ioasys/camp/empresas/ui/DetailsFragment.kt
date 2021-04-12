@@ -1,4 +1,4 @@
-package br.com.ioasys.camp.empresas
+package br.com.ioasys.camp.empresas.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,6 +7,8 @@ import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.navArgs
+import br.com.ioasys.camp.empresas.DetailsFragmentArgs
+import br.com.ioasys.camp.empresas.R
 import br.com.ioasys.camp.empresas.databinding.FragmentDetailsBinding
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy

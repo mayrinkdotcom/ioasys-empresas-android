@@ -1,4 +1,4 @@
-package br.com.ioasys.camp.empresas
+package br.com.ioasys.camp.empresas.ui
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,6 +6,8 @@ import android.view.ViewGroup
 import androidx.appcompat.widget.AppCompatImageView
 import androidx.appcompat.widget.AppCompatTextView
 import androidx.recyclerview.widget.RecyclerView
+import br.com.ioasys.camp.empresas.Company
+import br.com.ioasys.camp.empresas.R
 import com.bumptech.glide.Glide
 
 class CompanyAdapter(private val callback: (Company) -> Unit): RecyclerView.Adapter<CompanyAdapter.CompanyViewHolder>(){
