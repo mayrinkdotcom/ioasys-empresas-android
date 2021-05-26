@@ -1,9 +1,10 @@
+![logo-ioasys](./app/src/main/res/drawable-hdpi/logo_home.png)
 # ioasys-empresas-android
 Empresas é um Android app que consome a API da ioasys para pesquisar e listar empresas.
 
 ## Sumário
   - [Getting Started](#getting-started)
-  - [Versionamento](versionamento)
+  - [Versionamento](#versionamento)
 
 
 ## Getting Started
@@ -23,6 +24,7 @@ Caso você não tenha um aparelho Android, é possível utilizar o emulador nati
   > Nota: O setup de instalação da IDE pode demorar um pouco dependendo da sua conexão de internet e da capacidade de memória RAM disponível.
 2. Abra o diretório do projeto na tela inicial do Android Studio
 3. Configure uma saída para o aplicativo compilado (dispositivo Android físico ou emulador nativo)
+4. Execute o build do projeto, clicando no ícone "run" logo após a identificação da saída de compilação na barra de ferramentas superior.
 
 ## Versionamento
 
